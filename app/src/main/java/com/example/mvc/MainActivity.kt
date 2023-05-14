@@ -32,3 +32,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+//1. View를 통해 사용자가 이벤트를 발생시킨다.
+//2. Controller가 Model에 접근하여 데이터를 요청한다.
+//3. Model이 Controller에게 데이터를 넘겨준다.
+//4. Controller가 View에게 처리된 데이터를 보여준다.
