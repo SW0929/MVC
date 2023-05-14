@@ -8,3 +8,7 @@ Model + View + Controller
 - Model이 View를 손쉽게 변경가능하다.
 
 1. Model에서 View를 바꾸는 기능을 가짐
+
+Reference
+- https://github.com/you6878/howlmvvm.git
+- https://www.youtube.com/watch?v=FwFIKRpSElo&t=118s
